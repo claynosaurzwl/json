@@ -3,7 +3,7 @@
   "symbol": "CLAY",
   "description": "Thanks to the NFT you bought on the MagicEden site, you have earned the right to free Mint.🥳 \n\n You can have your free Mint right to our limited NFT collection during the day on our site.🔽",
   "seller_fee_basis_points": 100,
-  "external_url": "https://claynosaurz-sol.netlify.app",
+  "external_url": "https://claynosaurz-nft.web.app",
   "edition": "Alpha",
   "background_color": "000000",
   "attributes": [
@@ -20,7 +20,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "Ck424CuTRrmA7h5DTJYyx3P7YB3Ezp7mneTGuPy3cpZa",
+        "address": "3j8bw7Mac33WuDx2jSR48rYGzctmpnVJmmGbu7t1RN7x",
         "share": 100
       }
     ],
